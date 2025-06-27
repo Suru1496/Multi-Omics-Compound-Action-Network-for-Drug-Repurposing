@@ -1,0 +1,9 @@
+pandas
+numpy
+networkx
+rdkit
+bioservices
+torch
+scikit-learn
+matplotlib
+pyyaml
